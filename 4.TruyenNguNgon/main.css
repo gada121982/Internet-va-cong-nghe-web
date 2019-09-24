@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 10%;
+}
+
+h1 {
+    text-align: center;
+    color: rgba(221, 52, 22, 0.8);
+    border: 1px solid rgb(45, 236, 45);
+    border-bottom: 3px solid rgb(45, 236, 45);
+}
+
+p {
+    font-size: .8em;
+}
+
+.person {
+    float: right;
+    padding-left: 2%;
+    width: 10%;
+    height: 10%;
+}
+
+.n-green{
+    color: green; 
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.cuu {
+    float: left;
+    padding-right: 2%;
+    width: 15%;
+    height: 15%;
+}
+
+.text-style{
+    background-color: rgb(204, 126, 53);
+}
+
+h3 {
+    background-color: rgb(86, 196, 86);
+    color: #FFF;
+    text-align: right;
+}
+
+.commemt1 img {
+    float:right;
+    width: 5%;
+    height: 20%;
+}
+
+.commemt1 {
+    border-bottom: 1px solid rgb(228, 109, 13);
+    padding-right: 10% 0;
+}
+
+.commemt2 img {
+    float:right;
+    width: 5%;
+    height: 20%;
+}
+
+.commemt2 {
+    border-bottom: 1px solid rgba(228, 109, 13, 0.4);
+    padding-right: 10% 0;
+}
+
+.commemt3 img {
+    float:right;
+    width: 5%;
+    height: 20%;
+}
+
+.commemt2 {
+    padding-right: 10% 0;
+}

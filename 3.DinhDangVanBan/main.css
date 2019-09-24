@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgba(25, 231, 25, 0.7);
+    text-align: center;
+}
+
+span {
+    color: red;
+}
+
+pre {
+    background-color: rgba(128, 128, 128, 0.4);
+    color: blue;
+    margin-right: 30%;
+}
+
+div {
+    margin-left: 30%;
+}
+
