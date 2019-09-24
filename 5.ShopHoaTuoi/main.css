@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8em;
+    background-image: url('./img/nen-hoa-hong.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 6000%;
+    width: 80%;
+    margin: 0 10%;
+}
+
+marquee {
+    font-family: 'UTM Wedding K&T';
+    color: rgb(238, 18, 150);
+    behavior: alternate;
+    font-size: 2.4em;
+}
+
+.picture {
+    width: 20%;
+    height: 20%;
+    float: left;
+}
+
+.contact {
+    margin: 10% 35% 10%;
+}
+
+span {
+    background-color: palevioletred;
+    color: white;
+    font-weight: bold;
+}
+
+.text-bold {
+    background-color: rgba(247, 234, 234, 0.1);
+    color: black;
+    font-weight: bold;
+}
+
+.contact ol li:nth-child(1) ul {
+    list-style-image: url('./img/bullet-hoa-tim.png');
+}
+
+.contact ol li:nth-child(3) ul{
+    list-style-image: url('./img/bullet-tron-hong.png');
+}
+
+p {
+    color: blue;
+}
+
+p a {
+    text-decoration: none;
+    color: palevioletred;
+}
