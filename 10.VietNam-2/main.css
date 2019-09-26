@@ -29,10 +29,6 @@ ul {
     float: right;
 }
 
-.hanoi {
-    margin-top: 70px;
-}
-
 .hanoi h2{
     background-color: #F00;
     color: #FFF;
@@ -55,10 +51,6 @@ ul {
     height: 263px;
     float: right;
     padding-left: 15px;
-}
-
-.hue {
-    margin-top: 70px;
 }
 
 .hue h2 {
@@ -100,10 +92,6 @@ h4 {
     padding-left: 15px;
 }
 
-.tphcm {
-    margin-top: 70px;
-}
-
 .tphcm h2 {
     background-color: #F0C;
     color: #FFF;
@@ -119,4 +107,24 @@ h4 {
 .picture-cbt {
     width: 396px;
     height: 265px;
+}
+
+.p-center {
+    text-align: center;
+}
+
+.button-back {
+    width: 22px;
+    height: 22px;
+}
+
+.button-top {
+    width: 22px;
+    height: 22px;
+    border: 0;
+}
+
+.button-forward {
+    width: 22px;
+    height: 22px;
 }
