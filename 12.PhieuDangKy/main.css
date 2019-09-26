@@ -47,12 +47,13 @@ table {
 }
 
 label {
-    color: #C00;
+    color: rgb(243, 99, 123);
     font-size: 14px;
 }
 
 .button {
-    padding: 5px 15px;
+    padding: 5px 20px;
     border-radius: 15px;
     background-color: rgb(101, 101, 250);
+    box-shadow: 1px 1px 1px black;
 }
