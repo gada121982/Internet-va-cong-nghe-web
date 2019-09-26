@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8em;
+    background-color: rgb(172, 49, 49);
+    background-image: url('./img/rose.png'), url('./img/kim-tea-hee.png'), url('./img/nen-hoa-hong.png');
+    background-repeat: no-repeat;
+    background-position:100px 470px ,left 60px, right 320px;
+}
+
+.table-1 {
+    border: 1px solid white;
+    margin: 0 auto;
+    width: 707px;
+    height: 493px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+}
+
+
+h3 {
+    color: white;
+    background-color:  rgb(218, 22, 22);
+    text-align: right;
+    height: 39;
+    width: 507px;
+    padding: 20px 0;
+    margin-top: -3px;
+    margin-left: -3px;
+}
+
+.picture {
+    background-color: rgb(255, 157, 239);
+    margin-top: -17px;
+    margin-left: -204px;
+    width: 200px;
+    height: 114px;
+}
+
+h1 {
+    height: 48px;
+    background-color: rgb(255, 157, 239);
+    padding-top: 10px;
+    width: 507px;
+    color: red;
+    text-align: center;
+    margin-top: -20px;
+    margin-left: -3px;
+}
+
+.table-2 {
+    width: 707px;
+    margin-left: -3px;
+    margin-top: -21px;
+}
+
+.square {
+    color: red;
+    list-style-image: url('./img/check-box-empty.svg');
+}
+
+.text {
+    list-style: circle;
+    color: rgba(235, 217, 217, 0.9);
+}
+
+.text-3{
+    list-style: decimal;
+    color: rgba(235, 217, 217, 0.9);
+    margin-top: 20px;
+}
+
+.square {
+    line-height: 1.4em;
+}
+
+.square-1 {
+    margin-top: -112px;
+}
+
+.text-1 li {
+    margin-top: 20px;
+}
+
+.square-2 {
+    margin-top: -110px;
+}
+
+.text-2 {
+    margin-top: 20px;
+}
+
+.square-3 {
+    margin-top: 20px;
+}
+
+
+
