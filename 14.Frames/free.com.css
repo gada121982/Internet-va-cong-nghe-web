@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8em;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(129, 129, 228);
+}
+
+.container {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    background-color: #FFF;
+}
+
+.logo-free {
+    padding: 20px;
+}
+
+.banner {
+    border: 1px solid red;
+}
+
+.content {
+    color: blue;
+}
+
+span {
+    font-weight: 900;
+}
+
+.logo {
+    position: relative;
+    color: blue;
+}
+
+.logon {
+    position: absolute;
+    margin-left: 200px;
+}
+
+.join {
+    margin-left: 350px;
+}
+
+a {
+    color: red;
+}
+
+.logo p:nth-child(3){
+    padding: 20px;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.footer {
+    font-size: .7em;
+    padding: 10px 0;
+}

@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('./img/co-vietnam.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: #F00;
+}
+
+ul {
+    list-style: none;
+}
+
+.map-vn {
+    float: left;
+}
+
+.vn-intheworld {
+    width: 254px;
+    height: 254px;
+    float: right;
+}
+
+.go-top {
+    float: right;
+}
+
+.hanoi h2{
+    background-color: #F00;
+    color: #FFF;
+    padding: 5px 15px;
+}
+
+.picture-hg {
+    width: 306px;
+    height: 263px;
+    float: left;
+    padding-right: 15px;
+}
+
+.picture-h-vang {
+    float: left;
+}
+
+.picture-mausoleum {
+    width: 351px;
+    height: 263px;
+    float: right;
+    padding-left: 15px;
+}
+
+.hue h2 {
+    background-color: #90C;
+    color: #FFF;
+    padding: 5px 15px;
+}
+
+.picture-h-tim {
+    width: 71px;
+    height: 95px;
+    float: left;
+}
+
+.picture-center {
+    text-align: center;
+}
+
+.picture-tt {
+    width: 715px;
+    height: 474px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.picture-dth {
+    width: 397px;
+    height: 222px;
+    float: left;
+    padding-right: 15px;
+}
+
+.picture-tldn {
+    width: 397px;
+    height: 222px;
+    float: right;
+    padding-left: 15px;
+}
+
+.tphcm h2 {
+    background-color: #F0C;
+    color: #FFF;
+    padding: 5px 15px;
+}
+
+.picture-t-hong {
+    width: 57px;
+    height: 76px;
+    float: left;
+}
+
+.picture-cbt {
+    width: 396px;
+    height: 265px;
+}
+
+.p-center {
+    text-align: center;
+}
+
+.button-back {
+    width: 22px;
+    height: 22px;
+}
+
+.button-top {
+    width: 22px;
+    height: 22px;
+    border: 0;
+}
+
+.button-forward {
+    width: 22px;
+    height: 22px;
+}
